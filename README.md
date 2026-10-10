@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Travis White</h1>
-<h3 align="center">I'm a full stack software engineer by day and hobbyist game developer by...whenever I can!</h3>
+<h3 align="center">I'm a full-stack software engineer by day and hobbyist game developer by...whenever I can!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=travlesscloud" alt="travlesscloud" /></a> </p>
 
